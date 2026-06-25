@@ -29,3 +29,4 @@
 - Arrays and Game Logic
 - User Interface Design
 
+<img width="1600" height="766" alt="image" src="https://github.com/user-attachments/assets/dd9f54c2-e8fb-4d5e-a640-575cda002bde" />
