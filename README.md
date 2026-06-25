@@ -1,6 +1,6 @@
 # Simon Game
 
- A memory-based Simon Game built with HTML, CSS, JavaScript, and jQuery. Players must remember and repeat an increasingly complex sequence of colors and sounds.
+ A memory-based Simon Game built with HTML, CSS, JavaScript, and jQuery. Players must remember and repeat an increasingly complex sequence of colors.
 
 # Features
 - Random color sequence generation
